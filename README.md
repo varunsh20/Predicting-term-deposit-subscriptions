@@ -24,7 +24,8 @@ The features used in the data are as follows:
 - poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 Output variable (desired target):
 - has the client subscribed a term deposit? (binary: 'yes','no')
- 
+
+##Exploratory data analysis
  
  
  
