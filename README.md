@@ -37,9 +37,14 @@ From the above plots we can conclude that:
 - Most of the clients have secondary education.
 - Default does not seems to be an important feature so it can be dropped.
 
-## Relationship between categorical features and labels
+## Exploring numerical features
 
-![eda2](https://user-images.githubusercontent.com/62187533/121784864-1756c580-cbd4-11eb-825c-511288b00b2c.png)
+![eda3](https://user-images.githubusercontent.com/62187533/121784957-9ea43900-cbd4-11eb-9932-cff16a596897.png)
+
+
+From the above plots we can conclude that:
+- Features like age and day are distributed normally.
+- Features like balance,duration,campaign,pdays and previous are highly skewed towards left and seems to have some outliers.
 
 
 
