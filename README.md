@@ -85,8 +85,14 @@ Confusion matrix:
 
 
 The model was deployed on heroku.
-Here is the heroku link to the project: https://predicttermdeposits.herokuapp.com
+Here is the link to the project deployed on heroku: https://predicttermdeposits.herokuapp.com
 
+Screenshots of project:
+![Screenshot (129)](https://user-images.githubusercontent.com/62187533/121785661-b8e01600-cbd8-11eb-8752-b5b8a1ac2c40.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/62187533/121785663-baa9d980-cbd8-11eb-876a-07d657b68a59.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/62187533/121785665-baa9d980-cbd8-11eb-9fa2-9cc13057d989.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/62187533/121785666-bb427000-cbd8-11eb-8385-3904f18dff49.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/62187533/121785667-bbdb0680-cbd8-11eb-9870-03ede1b90701.png)
 
 
 
