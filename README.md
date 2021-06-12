@@ -26,6 +26,7 @@ Output variable (desired target):
 - has the client subscribed a term deposit? (binary: 'yes','no')
 
 ## Exploratory data analysis
+
+Exploring categorical features
  
- 
- 
+![eda1](https://user-images.githubusercontent.com/62187533/121782182-f38c8300-cbc5-11eb-9769-f5bb8ce31d2c.png)
