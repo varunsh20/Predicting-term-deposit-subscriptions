@@ -30,3 +30,26 @@ Output variable (desired target):
 Exploring categorical features
  
 ![eda1](https://user-images.githubusercontent.com/62187533/121782182-f38c8300-cbc5-11eb-9769-f5bb8ce31d2c.png)
+
+From the above plots we can conclude that:
+- In the dataset most of the clients have management as their job type.
+- Clients who are married have more number of records in the given dataset.
+- Most of the clients have secondary education.
+- Default does not seems to be an important feature so it can be dropped.
+
+## Relationship between categorical features and labels
+
+![eda2](https://user-images.githubusercontent.com/62187533/121784864-1756c580-cbd4-11eb-825c-511288b00b2c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
