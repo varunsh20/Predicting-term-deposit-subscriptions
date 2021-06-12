@@ -1,7 +1,7 @@
 # Predicting-term-deposit-subscriptions
 This project is about predicting whether a client will subscribe to a term deposit or not.This will predict which clients will likely
 subscribe the term deposit before agents make phone calls.It will also help the banks to decide how many clients needs to be
-contacted in order to meet their business target,based on which banks can plan the scope,budget and resources of marketing campaign accordingly
+contacted in order to meet their business target,based on which banks can plan the scope,budget and resources of marketing campaign accordingly.
 The dataset used in this project is obtained from kaggle.
 Here is the link to the dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 
