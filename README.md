@@ -25,7 +25,7 @@ The features used in the data are as follows:
 Output variable (desired target):
 - has the client subscribed a term deposit? (binary: 'yes','no')
 
-##Exploratory data analysis
+## Exploratory data analysis
  
  
  
