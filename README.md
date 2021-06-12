@@ -58,22 +58,29 @@ It can be seen that age,balance,duration,pdays,previous have some outliers.
 
 It can be seen that no feature is heavily correlated with any other feature.
 
-##Performance by different models:
+## Performance by different models:
 
 ## Random forest classifier
+
 Random forest classifier gives 0.85 accuracy score and 0.85 precision score
 Confusion matrix:
 
 ![eda7](https://user-images.githubusercontent.com/62187533/121785293-a238bf80-cbd6-11eb-97df-893a75d83f88.png)
 
-##SVM's
+## SVM's
+
 SVM classifier gives 0.72 accuracy score and 0.74 precision score.
+
 Confusion matrix:
+
 ![eda8](https://user-images.githubusercontent.com/62187533/121785307-b2e93580-cbd6-11eb-94ec-9f0bdf8127b4.png)
 
-##XGBoost classifier
+## XGBoost classifier
+
 XGBoost classifier gives 0.85 accuracy score and 0.85 precision score
+
 Confusion matrix:
+
 ![eda6](https://user-images.githubusercontent.com/62187533/121785301-a9f86400-cbd6-11eb-891b-1a9f6b7b0e8b.png)
 
 
