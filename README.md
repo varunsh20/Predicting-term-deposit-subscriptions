@@ -1,5 +1,7 @@
 # Predicting-term-deposit-subscriptions
-This project is about predicting whether a client will subscribe to a term deposit or not.
+This project is about predicting whether a client will subscribe to a term deposit or not.This will predict which clients will likely
+subscribe the term deposit before agents make phone calls.It will also help the banks to decide how many clients needs to be
+contacted in order to meet their business target,based on which banks can plan the scope,budget and resources of marketing campaign accordingly
 The dataset used in this project is obtained from kaggle.
 Here is the link to the dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 
@@ -47,7 +49,32 @@ From the above plots we can conclude that:
 - Features like balance,duration,campaign,pdays and previous are highly skewed towards left and seems to have some outliers.
 
 
+## Finding Outliers in numerical features
+![eda4](https://user-images.githubusercontent.com/62187533/121785115-7ff27200-cbd5-11eb-9aab-d8ff74e5ab8c.png)
 
+It can be seen that age,balance,duration,pdays,previous have some outliers.
+
+![eda5](https://user-images.githubusercontent.com/62187533/121785137-aca68980-cbd5-11eb-950f-82d4a2b61ee8.png)
+
+It can be seen that no feature is heavily correlated with any other feature.
+
+##Performance by different models:
+
+## Random forest classifier
+Random forest classifier gives 0.85 accuracy score and 0.85 precision score
+Confusion matrix:
+
+![eda7](https://user-images.githubusercontent.com/62187533/121785293-a238bf80-cbd6-11eb-97df-893a75d83f88.png)
+
+##SVM's
+SVM classifier gives 0.72 accuracy score and 0.74 precision score.
+Confusion matrix:
+![eda8](https://user-images.githubusercontent.com/62187533/121785307-b2e93580-cbd6-11eb-94ec-9f0bdf8127b4.png)
+
+##XGBoost classifier
+XGBoost classifier gives 0.85 accuracy score and 0.85 precision score
+Confusion matrix:
+![eda6](https://user-images.githubusercontent.com/62187533/121785301-a9f86400-cbd6-11eb-891b-1a9f6b7b0e8b.png)
 
 
 
