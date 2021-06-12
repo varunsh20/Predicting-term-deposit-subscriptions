@@ -84,9 +84,8 @@ Confusion matrix:
 ![eda6](https://user-images.githubusercontent.com/62187533/121785301-a9f86400-cbd6-11eb-891b-1a9f6b7b0e8b.png)
 
 
-
-
-
+The model was deployed on heroku.
+Here is the heroku link to the project: https://predicttermdeposits.herokuapp.com
 
 
 
