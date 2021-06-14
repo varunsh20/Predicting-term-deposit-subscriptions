@@ -3,7 +3,10 @@ The goal of this project is to build a machine learning model that can predict w
 subscribe the term deposit before agents make phone calls.It will also help the banks to decide how many clients needs to be
 contacted in order to meet their business target,based on which banks can plan the scope,budget and resources of marketing campaign accordingly.
 The dataset used in this project is obtained from kaggle.
+
 Here is the link to the dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
+
+The dataset includes details of about 11162 customers.
 
 The features used in the data are as follows:
 #### bank client data:
@@ -84,8 +87,9 @@ Confusion matrix:
 ![eda6](https://user-images.githubusercontent.com/62187533/121785301-a9f86400-cbd6-11eb-891b-1a9f6b7b0e8b.png)
 
 
-The model was deployed on heroku.
-Here is the link to the project deployed on heroku: https://predicttermdeposits.herokuapp.com
+A web app of this model is also created using flask and it is deployed on heroku.
+
+[You can view the web application here.]https://predicttermdeposits.herokuapp.com
 
 Screenshots of project:
 ![Screenshot (129)](https://user-images.githubusercontent.com/62187533/121785661-b8e01600-cbd8-11eb-8752-b5b8a1ac2c40.png)
