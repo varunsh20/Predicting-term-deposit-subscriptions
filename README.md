@@ -31,7 +31,7 @@ Output variable (desired target):
 
 Exploring categorical features
  
-![eda1](https://user-images.githubusercontent.com/62187533/121782182-f38c8300-cbc5-11eb-9769-f5bb8ce31d2c.png)
+![b1](https://user-images.githubusercontent.com/62187533/121950553-6852ef00-cd77-11eb-8f17-32f3f226300d.png)
 
 From the above plots we can conclude that:
 - In the dataset most of the clients have management as their job type.
