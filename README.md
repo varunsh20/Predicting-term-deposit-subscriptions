@@ -89,7 +89,7 @@ Confusion matrix:
 
 A web app of this model is also created using flask and it is deployed on heroku.
 
-[You can view the web application here.]https://predicttermdeposits.herokuapp.com
+[You can view the web application here.](https://predicttermdeposits.herokuapp.com)
 
 Screenshots of project:
 ![Screenshot (129)](https://user-images.githubusercontent.com/62187533/121785661-b8e01600-cbd8-11eb-8752-b5b8a1ac2c40.png)
